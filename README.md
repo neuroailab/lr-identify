@@ -10,7 +10,7 @@ First clone this repo, then install dependencies
 ```
 pip install -r requirements.txt
 ```
-We recommend Python 3.6 if you run the above requirements file. 
+We recommend Python 3.6 if you run the above requirements file.
 
 For users who use older versions of Python, we note that in the original paper:
 - We used Python 2.7, so the code is backwards-compatible with this version of Python.
@@ -39,3 +39,8 @@ To download results from pretrained classifiers (Random Forest, Linear SVM, and 
 ./get_saved_results.sh
 ```
 This will save the `.pkl` files to a new directory called `saved_classifier_results/`.
+
+## Tutorial
+
+See this [Google Colab notebook](https://colab.research.google.com/drive/1Uvi0Q-JQ9VJsJiADMoL2eB_z65FzMNfm?usp=sharing) for a brief tutorial on the use of many parts of this code, including analyzing the dataset, visualizing saved classifier results, and training your own classifiers on the dataset.
+
