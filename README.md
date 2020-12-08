@@ -1,6 +1,6 @@
 # Identifying Learning Rules From Neural Network Observables
 
-**Aran Nayebi, Sanjana Srivastava, Surya Ganguli, Daniel L. K. Yamins**
+**Aran Nayebi\*, Sanjana Srivastava\*, Surya Ganguli, Daniel L. K. Yamins**
 
 *34th Conference on Neural Information Processing Systems (NeurIPS 2020)*
 
@@ -58,3 +58,6 @@ If you used this dataset or codebase for your research, please consider citing o
     year={2020}
 }
 ```
+## Contact
+
+If you have any questions or encounter issues, either submit a Github issue here or email `anayebi@stanford.edu`.
